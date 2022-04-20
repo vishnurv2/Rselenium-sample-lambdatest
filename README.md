@@ -29,6 +29,8 @@ $ brew install R
 * **To install RSelenium from CRAN, run:**
 
 ```
+$ R 
+
 > install.packages("RSelenium")
 ```
 
