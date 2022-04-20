@@ -28,4 +28,12 @@ $ brew install R
 
 * **To install RSelenium from CRAN, run:**
 
-```install.packages("RSelenium")```
+```
+install.packages("RSelenium")
+```
+
+
+* **To start the test, run:**
+```
+Rscript todo-app.r 
+```
